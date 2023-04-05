@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'Onmid',
   author: 'Alex',
-  email: 'i@craigary.net',
+  email: 'liushihao1@gmail.com',
   link: 'https://onmid.net
   description: 'shihao',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
